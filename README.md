@@ -1,5 +1,4 @@
-26.7.2021 v 15:00 nahrána verze s nižším počtem bugů než měla verze předchozí(snad ;-) )<br>
-test dva
+26.7.2021 v 15:00 nahrána verze s nižším počtem bugů než měla verze předchozí(snad ;-) )
 ## Ralph
 Prográmek Ralph, který zkontroluje jestli klientské ads.txt obsahují všechny potřebné ads
 ### Stisknout zelené tlačítko "Code" a stáhnout Zip soubor
