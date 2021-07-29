@@ -1,5 +1,5 @@
-26.7.2021 v 15:00 nahrána verze s nižším počtem bugů než měla verze předchozí(snad ;-) )<br>
-test gitu
+29.7.2021 v 13:30 nahrána verze s novou fíčurou, která zkontroluje zda má klient na webu nějaké ads.txt dvakrát. Zároveň už umí nezapisovat prázdné řádky <br>
+což zlepšuje přehlednost
 ## Ralph
 Prográmek Ralph, který zkontroluje jestli klientské ads.txt obsahují všechny potřebné ads
 ### Stisknout zelené tlačítko "Code" a stáhnout Zip soubor
