@@ -1,3 +1,5 @@
+12.8.2021 v 14:30 nahrána nová verze,která je odolná vůči mezerám na konci řádku
+
 29.7.2021 v 13:30 nahrána verze s novou fíčurou, která zkontroluje zda má klient na webu nějaké ads.txt dvakrát. Zároveň už umí nezapisovat prázdné řádky <br>
 což zlepšuje přehlednost
 
